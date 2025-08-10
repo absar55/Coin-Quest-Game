@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" alt="License Badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/yourusername/coin-quest/blob/main/assets/banner.png" width="90%" alt="Coin Quest Banner"/>
-</p>
+
 
 ---
 
